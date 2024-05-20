@@ -1,7 +1,7 @@
-### Hi there 👋
+# Hi there 👋
 
 
-# Hello everyone! My name is Neil, and I am a hardworking, creative, and open-minded person who will not hesitate to grab any opportunity that presents itself.  
+### Hello everyone! My name is Neil, and I am a hardworking, creative, and open-minded person who will not hesitate to grab any opportunity that presents itself.  
 
 
 ## Possible Inquiries:
