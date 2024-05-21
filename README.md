@@ -12,7 +12,7 @@
    * I'm a music producer: I produce trap, drill, Lo-fi, and peaceful melodies.
 ## Activities
 
-  * Accomplished employee at an organization(<amrk>Kumon</mark>) geared towards helping young adults improve their skills in math and reading comprehension
+  * Accomplished employee at an organization(<mark>Kumon</mark>) geared towards helping young adults improve their skills in math and reading comprehension
   * Played piano at auditions that have helped me receive scholarships of up to $250 or more
   * Avid tennis player on the varsity team for my school
   * I currently have a 4.192 GPA and I've taken 5 AP classes so far
@@ -25,6 +25,7 @@
  * Django
 
 ## Contact
-  * [Instagram]()
-  * [Gmail](neilangraj@gmail.com)
-  * [Gmail](neiljangra18@gbstu.org)
+  * [Instagram](https://www.instagram.com/neil_jangra?igsh=Y3pkemEwcWxnZDE1)
+  * [SoundCloud]([https://m.soundcloud.com/nja-gaming]
+  * [Gmail Personal](neilangraj@gmail.com)
+  * [Gmail School](neiljangra18@gbstu.org)
