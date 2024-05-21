@@ -26,6 +26,6 @@
 
 ## Contact
   * [Instagram](https://www.instagram.com/neil_jangra?igsh=Y3pkemEwcWxnZDE1)
-  * [SoundCloud]([https://m.soundcloud.com/nja-gaming]
+  * [SoundCloud]([[https://m.soundcloud.com/nja-gaming](url)]
   * [Gmail Personal](neilangraj@gmail.com)
   * [Gmail School](neiljangra18@gbstu.org)
